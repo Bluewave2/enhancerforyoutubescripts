@@ -1,6 +1,6 @@
-# Enhancerforyoutubescripts
-Scripts for 
-Enhancer for Youtube
+# Enhancer for Youtube
+Scripts
+
 
 
 ## Center youtube controls under player in theather mode (instead of left align)
